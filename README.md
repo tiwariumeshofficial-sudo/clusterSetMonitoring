@@ -20,7 +20,7 @@ python3 monitor_clusterset.py \
   --critical-recipients-file /home/umesh/critical_recipients.txt \
   --warning-recipients-file /home/umesh/warning_recipients.txt \
   --env-label PROD \
-  --service-name Skilrock DBA Team
+  --service-name DB Team Skilrock
 ```
 
 Compatibility name also works:
